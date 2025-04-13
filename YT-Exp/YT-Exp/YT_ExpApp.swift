@@ -11,7 +11,7 @@ import SwiftUI
 struct YT_ExpApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PopUpMainView()
         }
     }
 }

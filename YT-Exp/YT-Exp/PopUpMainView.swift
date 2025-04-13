@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct PopUpMainView: View {
     @Namespace private var animation
     var body: some View {
         VStack {
@@ -87,5 +87,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    PopUpMainView()
 }

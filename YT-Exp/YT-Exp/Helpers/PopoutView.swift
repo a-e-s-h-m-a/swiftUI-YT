@@ -158,7 +158,7 @@ fileprivate struct PopupOverlay<Header: View, Content: View>: View {
 }
 
 #Preview {
-    ContentView()
+    PopUpMainView()
 }
 
 extension View {
